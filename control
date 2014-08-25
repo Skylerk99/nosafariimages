@@ -1,0 +1,9 @@
+Package: com.skylerk99.nosafariimages
+Name: NoSafariImages
+Depends: mobilesubstrate
+Version: 0.0.2
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Skylerk99
+Author: Skylerk99
+Section: Tweaks
